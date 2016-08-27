@@ -6,3 +6,4 @@ Recipes for using tools-rx packages and other RxJS patterns in NodeJS applicatio
 
 - Globs
     - [Reading List of Files](docs/globs/list-files)
+    - [Watching Files](docs/globs/watch-files)
