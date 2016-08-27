@@ -1,0 +1,11 @@
+{
+  "name": "docs-globs-list-files",
+  "version": "1.0.0",
+  "main": "demo.js",
+  "scripts": {
+    "start": "node ../../../babel-bootstrap demo.js"
+  },
+  "dependencies": {
+    "glob-rx": "^1.0.0-beta.6"
+  }
+}
