@@ -6,7 +6,7 @@
     "start": "node ../../../babel-bootstrap demo.js"
   },
   "dependencies": {
-    "rxjs": "^5.0.0-beta.11",
-    "watch-rx": "^1.0.0-beta.2"
+    "rxjs": "^5.0.0-rc.1",
+    "watch-rx": "^1.0.0-rc.1"
   }
 }
